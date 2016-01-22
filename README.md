@@ -4,8 +4,8 @@ A fullscreen audio realtime analyzer for your web browser written in javascript 
 ## Live-Demo:
 For a live-demo visit:
 https://rawgit.com/airbenich/realtime-audio-analyzer/master/index.html
-Make sure to permit your browser (Firefox or Chrome!) access to an audio-input-source (e.g. interna-microphone or line-input).
+Make sure to permit your browser (Firefox or Chrome!) to access an audio-input-source (e.g. interna-microphone or line-input).
 
 ## Known Issues
 - Works only in Firefox and Chrome.
-- HI-DPI (Retina-Display) currently not supported
+- Hi-DPI (Retina-Display) currently not supported
