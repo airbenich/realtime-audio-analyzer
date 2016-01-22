@@ -74,6 +74,7 @@ if (navigator.getUserMedia) {
    );
 } else {
    console.log('getUserMedia not supported on your browser!');
+   alert('getUserMedia not supported on your browser! Please use Firefox or Google Chrome.');
 }
 
 
