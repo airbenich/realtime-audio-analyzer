@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Nova Square';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nova Square'), local('NovaSquare'), url(http://fonts.gstatic.com/s/novasquare/v8/YsNHj2Yx5KzHzIjNe-czdIgp9Q8gbYrhqGlRav_IXfk.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Righteous';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Righteous'), local('Righteous-Regular'), url(http://fonts.gstatic.com/s/righteous/v5/w5P-SI7QJQSDqB3GziL8XZBw1xU1rKptJj_0jans920.woff2) format('woff2');
+}
