@@ -200,8 +200,6 @@ function visualize() {
     }
 
     // draw left scale
-    analyser.minDecibels = -100;
-    analyser.maxDecibels = 0;
     var stepSize = 10;
     var steps = (analyser.maxDecibels - analyser.minDecibels)/stepSize;
 
