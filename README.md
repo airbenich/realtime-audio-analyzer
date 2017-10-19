@@ -1,5 +1,6 @@
 # Fullscreen Realtime Audio Analyzer (live-input)
 A fullscreen audio realtime analyzer for your web browser written in javascript and based on the MDN Voice-change-o-matic demo. Powered by Web Audio API and build with 32-bit floating-point values.
+Rewrite to ES6 classes by author ek https://codepen.io/ek1991/
 
 ![Screenshot](https://raw.githubusercontent.com/airbenich/realtime-audio-analyzer/master/screenshot.png)
 
