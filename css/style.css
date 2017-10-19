@@ -1,0 +1,36 @@
+* {
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  border-collapse: collapse;
+  font-family: helvetica, sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: #eee;
+}
+
+
+/* ----- ----- */
+
+.wrapper {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+}
+
+.div_zoom {
+  background: rgba(255, 255, 255, .4);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  width: 0px;
+  z-index: 1;
+}

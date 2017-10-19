@@ -4,25 +4,12 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
 	<title>RTA</title>
-
-	<!--[if le IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-      <script src="scripts/respond.js"></script>
-    <![endif]-->
-	  <link href="normalize.css" rel="stylesheet" type="text/css">
-
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.6.3/dat.gui.min.js"></script>
+  <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-  <div class="wrapper" style="background:#000;height:100%;position:fixed;width:100%;">
-
-    <canvas class="visualizer"></canvas>
-
-
-  </div>
-
-    <!-- Below is your custom application script -->
-
-    <script src="app.js"></script>
-
-
-</body></html>
+  <div id="div_zoom" class="div_zoom"></div>
+  <div class="wrapper" draggable="true"></div>
+  <script src="app.js"></script>
+</body>
+</html>
