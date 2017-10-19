@@ -6,7 +6,7 @@ Rewrite to ES6 classes by author ek https://codepen.io/ek1991/
 
 ## Live-Demo:
 For a live-demo visit:
-https://rawgit.com/airbenich/realtime-audio-analyzer/master/index.html
+https://rawgit.com/airbenich/realtime-audio-analyzer/es6-rewrite-by-ek/index.html
 Make sure to permit your browser (Firefox or Chrome!) to access an audio-input-source (e.g. internal-microphone or line-input).
 
 ## Known Issues
